@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![](assets/Bottom_up.svg)
 
 <!--   my-icons -->
