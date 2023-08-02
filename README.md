@@ -13,7 +13,7 @@
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,I+am+Marquez+Yang;Over+3+years+of+programming+experience;Keeping+update+myself+based+on+JS+;webGL/webGPU+learning+enthusiast+;Everything+is+comming+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,I+am+Marquez+Yang;Over+3+years+of+programming+experience;Keeping+update+myself+based+on+JS+;webGL/webGPU+learning+enthusiast+;Everything+is+coming+!+)](https://git.io/typing-svg)
 
 <br/>
 
