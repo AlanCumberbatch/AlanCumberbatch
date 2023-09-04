@@ -43,7 +43,7 @@
 
 | ---- | Certification  |
 | ---- | ---- |
-| React | ![React Basic Certification]('./assets/react_basic_coursera.png')[🔗](https://coursera.org/share/4292a69ffca4738dfebf707a3e76d14b) |
+| React | [<img src="./assets/react_basic_coursera.png" alt="替代文本" width="100" height="80" />](https://coursera.org/share/4292a69ffca4738dfebf707a3e76d14b) |
 
 
 
