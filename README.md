@@ -2,10 +2,10 @@
 
 <!--   my-icons -->
 <p align="center">
-    <a href="https://github.com/AlanCumberbatch/AlanCumberbatch"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/AlanCumberbatch/cesium-"><img src="https://img.shields.io/badge/Cesium-1.81-blue.svg"></a>
-    <a href="https://github.com/AlanCumberbatch/react_Alan"><img src="https://img.shields.io/badge/React-learing-FF1493.svg"></a>
-    <a href="https://github.com/AlanCumberbatch/three_Alan"><img src="https://img.shields.io/badge/ThreeJS-learing-FF1493.svg"></a>
+    <!-- <a href="https://github.com/AlanCumberbatch/AlanCumberbatch"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a> -->
+    <!-- <a href="https://github.com/AlanCumberbatch/cesium-"><img src="https://img.shields.io/badge/Cesium-1.81-blue.svg"></a> -->
+    <!-- <a href="https://github.com/AlanCumberbatch/react_Alan"><img src="https://img.shields.io/badge/React-learing-FF1493.svg"></a> -->
+    <!-- <a href="https://github.com/AlanCumberbatch/three_Alan"><img src="https://img.shields.io/badge/ThreeJS-learing-FF1493.svg"></a> -->
     <!-- <a href="https://github.com/BEPb/BEPb/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a> -->
     <!-- <a href="https://github.com/BEPb/BEPb/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a> -->
     <!-- <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a> -->
@@ -23,8 +23,8 @@
 | **Domain Knownledge** | ![Linear Algebra Badge](https://img.shields.io/badge/-Linear%20Algebra-00AA00?style=flat&logoColor=white) ![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)    |
 | **CI / CD** | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/BEPb/BEPb) [![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white)](https://github.com/BEPb/BEPb) [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/BEPb/BEPb)
 | **Tools & Platform** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) [![Desmos](https://img.shields.io/badge/Desmos-74F355?style=for-the-badge&logo=desmos&logoColor=white)](https://www.desmos.com/calculator?lang=zh-CN) [![ShaderToy](https://img.shields.io/badge/ShaderToy-orange?style=for-the-badge&logo=shaderToy&logoColor=white)](https://www.shadertoy.com/) ![CODEPEN](https://img.shields.io/badge/CodeOpen-FFFFFF?style=for-the-badge&logo=codePen&logoColor=black)|
-| **webGL / webGPU frameworks** | ![ThreeJS Badge](https://img.shields.io/badge/-ThreeJS-FFFFFF?style=flat&logo=Three.js&logoColor=black) ![Cesium.js Badge](https://img.shields.io/badge/-Cesium.js-FFFFFF?style=flat&logo=Cesium&logoColor=blue) |
-| **JS / TS frameworks** | ![React Badge](https://img.shields.io/badge/-React-00000F?style=flat&logo=react&logoColor=blue) ![Vue Badge](https://img.shields.io/badge/-Vue-001F00?style=flat&logo=vue.js&logoColor=green) ![ExpressJS Badge](https://img.shields.io/badge/-ExpressJS-001F00?style=flat&logo=Express&logoColor=green) |
+| **webGL / webGPU frameworks** | ![Cesium.js Badge](https://img.shields.io/badge/-Cesium.js-FFFFFF?style=flat&logo=Cesium&logoColor=blue)  ![ThreeJS Badge](https://img.shields.io/badge/-ThreeJS-FFFFFF?style=flat&logo=Three.js&logoColor=black) |
+| **JS / TS frameworks** | ![Vue Badge](https://img.shields.io/badge/-Vue-001F00?style=flat&logo=vue.js&logoColor=green) ![React Badge](https://img.shields.io/badge/-React-00000F?style=flat&logo=react&logoColor=blue) ![ExpressJS Badge](https://img.shields.io/badge/-ExpressJS-001F00?style=flat&logo=Express&logoColor=green) |
 <!-- | **Databases** | ---- | -->
 <!-- | **OS** | ---- | -->
 <!-- ![WebGPU Badge](https://img.shields.io/badge/-WebGPU-FFFFFF?style=flat&logo=WebGPU&logoColor=blue) -->
@@ -44,7 +44,6 @@
 | ---- | Certification  |
 | ---- | ---- |
 | React | [<img src="./assets/react_basic_coursera.png" alt="替代文本" width="100" height="80" />](https://coursera.org/share/4292a69ffca4738dfebf707a3e76d14b) |
-
 
 
 <!--
