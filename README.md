@@ -33,11 +33,11 @@
 
 
 
-
+<!--
 | . | .  |
 | ---- | ---- |
 | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanCumberbatch&theme=radical&layout=compact&center=true ) | ![](https://moe-counter.glitch.me/get/@AlanCumberbatch.github.readme) |
-
+-->
 
 <!-- https://coursera.org/share/4292a69ffca4738dfebf707a3e76d14b -->
 
