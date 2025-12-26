@@ -26,7 +26,7 @@ Senior Frontend & Graphics Engineer <br/>
 Strategic Senior Software Engineer with over 5 years of experience specializing in high-performance web applications, 3D visualization, and frontend architecture. Proven track record in leading projects from 0 to 1, optimizing rendering performance by 80%, and managing cross-functional teams. Expert in Vue/React ecosystems and Web Graphics (WebGL, Three.js, Cesium.js). Currently advancing expertise in AWS Cloud Architecture. Bilingual in Mandarin and Japanese (J-cert A2.2).
 
 ## TECHNICAL SKILLS
- * Languages: JavaScript (ES6+), TypeScript, C++, Shader (GLSL), Rust/WASM, Java, Python.
+ * Languages: JavaScript (ES6+), TypeScript, C++, Shader (GLSL), WASM, Java, Python.
  * Frontend: React, Vue.js (2/3), Tailwind CSS, Framer Motion, Vite, Webpack.
  * 3D/Graphics: WebGL, Three.js, Cesium.js, Echarts, 3D Visualization, Mathematical Modeling.
  * Backend & Infrastructure: Node.js, Express, AWS (Learning), WebSocket, RESTful API.
