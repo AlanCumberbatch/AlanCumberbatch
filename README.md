@@ -13,7 +13,8 @@
 </p>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,I+am+Noah+Yang;5+years+of+programming+experience;Keeping+update+myself+based+on+JS+;webGL/webGPU+learning+enthusiast+;Everything+is+coming+!+)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com/?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,I+am+Noah+Yang;5+years+of+programming+experience;Keeping+update+myself+based+on+JS+;webGL/webGPU+learning+enthusiast+;Everything+is+coming+!+)](https://git.io/typing-svg)
+-->
 
 <br/>
 Senior Frontend & Graphics Engineer 📍 Mitaka-shi, Tokyo, Japan | 📞 080-9329-8370 <br/>
