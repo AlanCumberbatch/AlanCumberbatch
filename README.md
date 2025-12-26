@@ -17,9 +17,12 @@
 
 <br/>
 Senior Frontend & Graphics Engineer 📍 Mitaka-shi, Tokyo, Japan | 📞 080-9329-8370 <br/>
+
 ✉️ uraharanoa@gmail.com | 🌐 Portfolio/GitHub <br/>
+
 ## EXECUTIVE SUMMARY
 Strategic Senior Software Engineer with over 5 years of experience specializing in high-performance web applications, 3D visualization, and frontend architecture. Proven track record in leading projects from 0 to 1, optimizing rendering performance by 80%, and managing cross-functional teams. Expert in Vue/React ecosystems and Web Graphics (WebGL, Three.js, Cesium.js). Currently advancing expertise in AWS Cloud Architecture. Bilingual in Mandarin and Japanese (J-cert A2.2).
+
 ## TECHNICAL SKILLS
  * Languages: JavaScript (ES6+), TypeScript, C++, Shader (GLSL), Rust/WASM, Java, Python.
  * Frontend: React, Vue.js (2/3), Tailwind CSS, Framer Motion, Vite, Webpack.
@@ -27,7 +30,9 @@ Strategic Senior Software Engineer with over 5 years of experience specializing 
  * Backend & Infrastructure: Node.js, Express, AWS (Learning), WebSocket, RESTful API.
  * Tools: VSCode, Git/GitHub, Markdown, Jenkins, Linux (Loongnix/Ubuntu), macOS.
  * Project Management: Requirement Analysis, Module Design, Mentorship, Agile/Scrum.
+
 ## PROFESSIONAL EXPERIENCE
+
 ### Beijing Leixiang Technology Co., Ltd. | Beijing, China (Remote/Hybrid)
 ### Project Manager / Senior Frontend Lead | June 2022 – Sept 2025
  * Rainfall Simulation & Disaster Prediction System (Vue3, Cesium.js, WebGL)
@@ -53,6 +58,7 @@ KEY PROJECTS & ACHIEVEMENTS
  * Leadership: Experience in mentoring junior developers, conducting code reviews, and acting as a technical bridge between stakeholders and the development team.
 
 ## EDUCATION
+
 ### Shenyang Ligong University | Sept 2014 – June 2020
  * B.S. in Detection, Guidance, and Control Technology (School of Equipment Engineering)
  * Note: Includes 2 years of mandatory military service during enrollment.
