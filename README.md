@@ -16,6 +16,54 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,I+am+Noah+Yang;5+years+of+programming+experience;Keeping+update+myself+based+on+JS+;webGL/webGPU+learning+enthusiast+;Everything+is+coming+!+)](https://git.io/typing-svg)
 
 <br/>
+Senior Frontend & Graphics Engineer 📍 Mitaka-shi, Tokyo, Japan | 📞 080-9329-8370 <br/>
+✉️ uraharanoa@gmail.com | 🌐 Portfolio/GitHub <br/>
+## EXECUTIVE SUMMARY
+Strategic Senior Software Engineer with over 5 years of experience specializing in high-performance web applications, 3D visualization, and frontend architecture. Proven track record in leading projects from 0 to 1, optimizing rendering performance by 80%, and managing cross-functional teams. Expert in Vue/React ecosystems and Web Graphics (WebGL, Three.js, Cesium.js). Currently advancing expertise in AWS Cloud Architecture. Bilingual in Mandarin and Japanese (J-cert A2.2).
+## TECHNICAL SKILLS
+ * Languages: JavaScript (ES6+), TypeScript, C++, Shader (GLSL), Rust/WASM, Java, Python.
+ * Frontend: React, Vue.js (2/3), Tailwind CSS, Framer Motion, Vite, Webpack.
+ * 3D/Graphics: WebGL, Three.js, Cesium.js, Echarts, 3D Visualization, Mathematical Modeling.
+ * Backend & Infrastructure: Node.js, Express, AWS (Learning), WebSocket, RESTful API.
+ * Tools: VSCode, Git/GitHub, Markdown, Jenkins, Linux (Loongnix/Ubuntu), macOS.
+ * Project Management: Requirement Analysis, Module Design, Mentorship, Agile/Scrum.
+## PROFESSIONAL EXPERIENCE
+### Beijing Leixiang Technology Co., Ltd. | Beijing, China (Remote/Hybrid)
+### Project Manager / Senior Frontend Lead | June 2022 – Sept 2025
+ * Rainfall Simulation & Disaster Prediction System (Vue3, Cesium.js, WebGL)
+   * Led the development of a 3D visualization system for local governments to simulate flood risks.
+   * Performance Engineering: Developed a custom rendering logic using Shader + PNG (Binary data), reducing data loading and rendering time by 80% (from 400ms to 80ms).
+   * Architecture: Optimized frontend load times by implementing defineAsyncComponent for lazy-loading heavy 3D components, significantly reducing initial bundle size.
+ * Company-wide Core Frontend Library (NPM / Project Manager)
+   * Managed a team of 3 to build a standardized utility and WebGL component library used across all company projects.
+   * Standardized module design and naming conventions, reducing development cycles for new projects by approximately 30%.
+ * Satellite & Aviation Real-time Monitoring (React, Cesium.js, C++)
+   * Directed the migration of a legacy Vue system to React, ensuring 100% feature parity while adding new satellite-to-aircraft communication visualization.
+   * Architected a modular system to handle high-frequency real-time data via WebSockets for seamless monitoring of multiple moving entities.
+  
+### Loongson Technology Co., Ltd. | Beijing, China
+### Frontend Engineer (3D Visualization) | April 2020 – April 2022
+ * Web-based Virtual Globe System (Vue3, WebGL, WASM)
+   * Successfully ported core 3D functionalities from a legacy C++ desktop application to the browser.
+   * Implemented WebAssembly (WASM) and Emscripten to bridge high-performance C++ logic with the web interface.
+   * Independently built the 0-to-1 prototype of the "Virtual Globe" for internal data visualization, enabling intuitive global data interaction.
+KEY PROJECTS & ACHIEVEMENTS
+ * Graphics Expert: Specialized in creating custom visual effects such as radar sweeps, explosion simulations, and dynamic aircraft trails using Raw Shader (GLSL) integration within Cesium.js.
+ * Optimization Specialist: Expertise in overcoming browser memory constraints and network latency for large-scale meteorological datasets.
+ * Leadership: Experience in mentoring junior developers, conducting code reviews, and acting as a technical bridge between stakeholders and the development team.
+
+## EDUCATION
+### Shenyang Ligong University | Sept 2014 – June 2020
+ * B.S. in Detection, Guidance, and Control Technology (School of Equipment Engineering)
+ * Note: Includes 2 years of mandatory military service during enrollment.
+### CERTIFICATIONS & LANGUAGES
+ * Languages: Mandarin (Native), Japanese (J-cert A2.2 - Intermediate), English (Professional Working Proficiency).
+ * Certification: J-cert Life/Vocational Japanese Proficiency (Sept 2024).
+ * Continuous Learning: Currently pursuing AWS Solutions Architect certification.
+### ADDITIONAL INFORMATION
+ * Visa Status: Seeking sponsorship for Japan.
+ * Interests: 3D Engine Development, Cloud Computing, UI/UX Design.
+<br/>
 
 | Property | Data  |
 | ---- | ---- |
