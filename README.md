@@ -23,19 +23,19 @@ Senior Frontend & Graphics Engineer <br/>
 <!-- &nbsp&nbsp| 🌐 Portfolio/GitHub -->
 
 ## EXECUTIVE SUMMARY
-Strategic Senior Software Engineer with over 5 years of experience specializing in high-performance web applications, 3D visualization, and frontend architecture. Proven track record in leading projects from 0 to 1, optimizing rendering performance by 80%, and managing cross-functional teams. Expert in Vue/React ecosystems and Web Graphics (WebGL, Three.js, Cesium.js). Currently advancing expertise in AWS Cloud Architecture. Bilingual in Mandarin and Japanese (J-cert A2.2).
+Strategic Senior Software Engineer with over 5 years of experience specializing in high-performance web applications, 3D visualization, and frontend architecture. Proven track record in leading projects from 0 to 1, optimizing rendering performance by 80%, and managing cross-functional teams. Expert in Vue/React ecosystems and Web Graphics (WebGL, Three.js, Cesium.js). Currently advancing expertise in AWS Cloud Architecture. Bilingual in Mandarin and Japanese (JLPT N2).
 
 ## TECHNICAL SKILLS
  * Languages: JavaScript (ES6+), TypeScript, C++, Shader (GLSL), WASM, Java, Python.
  * Frontend: React, Vue.js (2/3), Tailwind CSS, Framer Motion, Vite, Webpack.
- * 3D/Graphics: WebGL, Three.js, Cesium.js, Echarts, 3D Visualization, Mathematical Modeling.
+ * 3D/Graphics: WebGL, Three.js, Cesium.js, Echarts, AntV G2, 3D Visualization, Mathematical Modeling.
  * Backend & Infrastructure: Node.js, Express, AWS (Learning), WebSocket, RESTful API.
  * Tools: VSCode, Git/GitHub, Markdown, Jenkins, Linux (Loongnix/Ubuntu), macOS.
  * Project Management: Requirement Analysis, Module Design, Mentorship, Agile/Scrum.
 
 ## PROFESSIONAL EXPERIENCE
 
-### Beijing Leixiang Technology Co., Ltd. | Beijing, China (Remote/Hybrid)
+### Beijing Leixiang Technology Co., Ltd. | Beijing, China
 ### Project Manager / Senior Frontend Lead | June 2022 – Sept 2025
  * Rainfall Simulation & Disaster Prediction System (Vue3, Cesium.js, WebGL)
    * Led the development of a 3D visualization system for local governments to simulate flood risks.
@@ -44,17 +44,29 @@ Strategic Senior Software Engineer with over 5 years of experience specializing 
  * Company-wide Core Frontend Library (NPM / Project Manager)
    * Managed a team of 3 to build a standardized utility and WebGL component library used across all company projects.
    * Standardized module design and naming conventions, reducing development cycles for new projects by approximately 30%.
- * Satellite & Aviation Real-time Monitoring (React, Cesium.js, C++)
-   * Directed the migration of a legacy Vue system to React, ensuring 100% feature parity while adding new satellite-to-aircraft communication visualization.
-   * Architected a modular system to handle high-frequency real-time data via WebSockets for seamless monitoring of multiple moving entities.
+ * Aviation Simulation & Satellite Monitoring System (Vue & React Transition)
+   * Phase 1 (0 to 1 Development): Led the entire lifecycle of the initial system by deconstructing complex business logic from legacy C++ PC software. Independently architected and developed the Vue2-based frontend from scratch, delivering core modules for aircraft status and radar visualization.
+   * Phase 2 (Architectural Migration): Strategically migrated the established Vue system to React to meet evolving enterprise requirements. Added advanced satellite-to-aircraft communication features and optimized visual effects (trailers, radar sweeps) using custom Shaders.
+   * Achievement: Achieved 100% feature parity during migration while enhancing real-time data synchronization via WebSockets.
   
 ### Loongson Technology Co., Ltd. | Beijing, China
 ### Frontend Engineer (3D Visualization) | April 2020 – April 2022
- * Web-based Virtual Globe System (Vue3, WebGL, WASM)
+ * Web-based Virtual Globe System (Vue3, WebGL, WASM, Vite)
    * Successfully ported core 3D functionalities from a legacy C++ desktop application to the browser.
    * Implemented WebAssembly (WASM) and Emscripten to bridge high-performance C++ logic with the web interface.
    * Independently built the 0-to-1 prototype of the "Virtual Globe" for internal data visualization, enabling intuitive global data interaction.
-KEY PROJECTS & ACHIEVEMENTS
+
+## Shenyang Yongxin Crowdfunding Network Tech | Shenyang, China
+
+### Frontend Developer Intern | Jan 2020 – April 2020
+ * B2B SaaS & Official Website Development: Developed responsive official sites and contributed to a large-scale B2B SaaS project using Vue2 and Element UI.
+ * Core Contributions:
+   * Implemented high-reusability components and encapsulated Axios methods for efficient API communication.
+   * Pioneered the integration of Amap (AutoNavi) services and utilized AntV G2 for 2D data visualization.
+   * Developed a real-time, data-driven browser printing solution for expense reports.
+
+## KEY PROJECTS & ACHIEVEMENTS
+
  * Graphics Expert: Specialized in creating custom visual effects such as radar sweeps, explosion simulations, and dynamic aircraft trails using Raw Shader (GLSL) integration within Cesium.js.
  * Optimization Specialist: Expertise in overcoming browser memory constraints and network latency for large-scale meteorological datasets.
  * Leadership: Experience in mentoring junior developers, conducting code reviews, and acting as a technical bridge between stakeholders and the development team.
