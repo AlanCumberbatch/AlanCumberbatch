@@ -17,9 +17,10 @@
 -->
 
 <br/>
-Senior Frontend & Graphics Engineer 📍 Mitaka-shi, Tokyo, Japan | 📞 080-9329-8370 <br/>
-
-✉️ uraharanoa@gmail.com | 🌐 Portfolio/GitHub <br/>
+Senior Frontend & Graphics Engineer <br/>
+📍 Mitaka-shi, Tokyo, Japan | 📞 080-9329-8370 <br/>
+✉️ uraharanoa@gmail.com<br/>
+<!-- &nbsp&nbsp| 🌐 Portfolio/GitHub -->
 
 ## EXECUTIVE SUMMARY
 Strategic Senior Software Engineer with over 5 years of experience specializing in high-performance web applications, 3D visualization, and frontend architecture. Proven track record in leading projects from 0 to 1, optimizing rendering performance by 80%, and managing cross-functional teams. Expert in Vue/React ecosystems and Web Graphics (WebGL, Three.js, Cesium.js). Currently advancing expertise in AWS Cloud Architecture. Bilingual in Mandarin and Japanese (J-cert A2.2).
